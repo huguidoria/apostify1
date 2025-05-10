@@ -1,0 +1,1 @@
+// models/Bet.js placeholder

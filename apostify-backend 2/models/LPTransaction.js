@@ -1,0 +1,1 @@
+// models/LPTransaction.js placeholder

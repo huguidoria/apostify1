@@ -1,0 +1,1 @@
+// services/lpService.js placeholder

@@ -1,0 +1,1 @@
+// middleware/verifyJWT.js placeholder
